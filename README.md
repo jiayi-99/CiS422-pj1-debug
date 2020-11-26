@@ -19,7 +19,13 @@ you can input your source co-ordination (latitude, longi-tude) pairs and find we
 You may see this webpage to find a way
 https://support.google.com/maps/answer/18539?co=GENIE.Platform%3DDesktop&hl=en
 
+## You can also use geojson_example.json to test code 
 
+
+
+## API limition
+The API provided in openrouteservice has a radius limit, it can display any coordinates within a radius of 350 meters
+But if the two coordinates exceed 350 meters, not for the erronous co-ordinates.
 
 
 
