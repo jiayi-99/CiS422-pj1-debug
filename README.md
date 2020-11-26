@@ -31,6 +31,8 @@ You can also use geojson_example.json provided coordinates to test, but if you e
 ## API limition
 The API provided in openrouteservice has a radius limit, it can display any coordinates within a radius of 350 meters
 But if the two coordinates exceed 350 meters, not for the erronous co-ordinates.
+Because this api is publicly available on the Internet, I have no right to modify it. 
+I tried to set the parameter to expand the radius externally, but not yet successful.
 
 
 
