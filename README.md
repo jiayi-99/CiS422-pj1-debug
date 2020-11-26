@@ -1,6 +1,7 @@
 # CiS422-pj1-debug
 
 ##INTRODUCTION
+
 a system like Strava, MapMyRun, or RideWithGPS
 (The input will be a record consisting of a sequence of (latitude, longi-tude) pairs.
 The output should be a list of turn-by-turn directions.)
