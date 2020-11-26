@@ -3,7 +3,7 @@
  
 ## Description:
 
-a system like Strava, MapMyRun, or RideWithGPS
+A system like Strava, MapMyRun, or RideWithGPS
 The input will be a record consisting of a sequence of (latitude, longi-tude) pairs.
 The output should be a list of turn-by-turn directions.
   
@@ -11,8 +11,8 @@ The output should be a list of turn-by-turn directions.
   
 ## Use:
 
-download project, unzip files, run app.py from command line or IDE and it will open the page in your browser.
-you can input your source co-ordination (latitude, longi-tude) pairs and find web app will help you to find direction,and showing path on map.
+Download project, unzip files, run app.py from command line or IDE and it will open the page in your browser.
+you can input your source co-ordination (latitude, longi-tude) pairs and where you want to go. Web app will help you to find direction,and showing path on map.
 
 ## Use:How to find co-ordination ?
 
@@ -23,7 +23,7 @@ https://support.google.com/maps/answer/18539?co=GENIE.Platform%3DDesktop&hl=en
 
 ## test
 
-there is a geojson_example.json I downloaded from Official website. 
+There is a geojson_example.json I downloaded from Official website. 
 
 You can also use geojson_example.json provided coordinates to test, but if you expand the distance between the coordinates (like500 meters), a system prompt will pop up, showing an error.
 
