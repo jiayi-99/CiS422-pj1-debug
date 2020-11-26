@@ -21,9 +21,11 @@ https://support.google.com/maps/answer/18539?co=GENIE.Platform%3DDesktop&hl=en
 
 
 
-## testcode
+## test
 
-You can also use geojson_example.json to test code 
+there is a geojson_example.json I downloaded from Official website. 
+
+You can also use geojson_example.json provided coordinates to test, but if you expand the distance between the coordinates (like500 meters), a system prompt will pop up, showing an error.
 
 
 
